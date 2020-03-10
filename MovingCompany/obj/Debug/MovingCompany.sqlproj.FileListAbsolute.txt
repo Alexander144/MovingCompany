@@ -1,0 +1,5 @@
+C:\Users\alla\Desktop\Inmeta\MovingCompanyAPI\MovingCompany\bin\Debug\MovingCompany.dacpac
+C:\Users\alla\Desktop\Inmeta\MovingCompanyAPI\MovingCompany\bin\Debug\MovingCompany.dll
+C:\Users\alla\Desktop\Inmeta\MovingCompanyAPI\MovingCompany\bin\Debug\MovingCompany.pdb
+C:\Users\alla\Desktop\Inmeta\MovingCompanyAPI\MovingCompany\obj\Debug\MovingCompany.dll
+C:\Users\alla\Desktop\Inmeta\MovingCompanyAPI\MovingCompany\obj\Debug\MovingCompany.pdb
